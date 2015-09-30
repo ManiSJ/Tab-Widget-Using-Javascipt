@@ -1,0 +1,22 @@
+#tabs{
+  list-style-type:none;
+  display: inline;
+ }
+
+#tabs li
+{
+background-color:blue;
+color:white;
+}
+
+#tabs li a{
+text-decoration: none;
+background-color:blue;
+color:white;
+}
+
+
+#Outer
+{
+border:1px solid black;
+}
